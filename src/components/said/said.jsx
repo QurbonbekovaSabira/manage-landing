@@ -27,7 +27,7 @@ export const Said = () => {
           text="“Manage allows us to provide structure and process. It keeps us organized and focused. I can’t stop recommending them to everyone I talk to!”"
         />
        </div>
-       <Btn></Btn>
+       <Btn>Get started</Btn>
       </div>
     </section>
   );

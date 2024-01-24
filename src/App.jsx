@@ -10,8 +10,8 @@ function App() {
       <Header />
       <main>
         <Hero></Hero>
-       <About></About>
-       <Said/>
+        <About></About>
+        <Said />
       </main>
       <Footer />
     </>

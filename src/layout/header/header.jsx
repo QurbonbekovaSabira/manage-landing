@@ -25,7 +25,7 @@ export const Header = () => {
             Community
           </a>
         </div>
-        <Btn />
+       <Btn>Get started</Btn>
       </div>
     </header>
   );

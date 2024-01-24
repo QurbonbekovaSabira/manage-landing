@@ -8,7 +8,7 @@ export const Footer = () => {
       <div className={style.box_first}>
         <div id="container" className={style.box_first_container}>
           <p className={style.title}>Simplify how your team works today.</p>
-          <Btn color="rgba(243, 96, 60, 1)" bg="white"></Btn>
+          <Btn color="rgba(243, 96, 60, 1)" bg="white">Get started</Btn>
         </div>
       </div>
       <div className={style.box_second}>
