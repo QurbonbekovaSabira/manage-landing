@@ -1,0 +1,40 @@
+.hero {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+.hero_title {
+  color: #242d52;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -1px;
+  margin-bottom: 16px;
+}
+.hero_text {
+  color: #242d52;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  opacity: 0.5;
+  margin-bottom: 40px;
+}
+.hero_imgBox {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 31px;
+  text-align: center;
+}
+.hero_first_imgBox {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.hero__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  align-items: center;
+  justify-content: space-between;
+}

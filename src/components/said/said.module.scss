@@ -1,0 +1,23 @@
+.said{
+    padding-top: 80px;
+    padding-bottom: 160px;
+}
+.title {
+  color: #242d52;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px; 
+  letter-spacing: -0.714px;
+  margin-bottom: 64px;
+}
+.cardBox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 48px;
+}
+.said_container{
+    text-align: center;
+}

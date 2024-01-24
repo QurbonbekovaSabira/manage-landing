@@ -1,0 +1,14 @@
+.btn {
+  color: #fcf6f5;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 12px 33px;
+  background-color: rgba(243, 96, 60, 1);
+  border-radius: 20px;
+  border: none;
+  transition: all .4s ease;
+  cursor: pointer;
+  &:hover{
+    background-color: rgba(249, 143, 117, 1);
+  }
+}
